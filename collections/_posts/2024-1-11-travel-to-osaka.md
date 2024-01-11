@@ -3,7 +3,7 @@ layout: post
 title: "大阪旅行(2024/1/6-1/8)"
 date: 2024-1-11T13:00:00+9:00
 authors: ["takumi","take","teza","yuna"]
-categories: ["旅行", "大阪"]
+categories: ["Travel", "Osaka"]
 description: 旅行を時系列と写真で大雑把にまとめる。
 thumbnail: "https://pbs.twimg.com/media/GDkEuenagAA-oKV?format=jpg&name=small"
 image: "https://pbs.twimg.com/media/GDkYGb7aIAAf5P_?format=jpg&name=small"
