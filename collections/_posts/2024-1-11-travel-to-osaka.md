@@ -68,6 +68,10 @@ image: "https://pbs.twimg.com/media/GDkYGb7aIAAf5P_?format=jpg&name=small"
 
 ![ターキーレッグ](https://pbs.twimg.com/media/GDkcfFVawAABumP?format=jpg&name=small)
 
+食べ物：チュロス
+
+![チュロス](https://pbs.twimg.com/media/GDkhTjfbAAA998e?format=jpg&name=small)
+
 
 アトラクション：[バックドロップ](https://www.usj.co.jp/web/ja/jp/attractions/hollywood-dream-the-ride-backdrop)
 
