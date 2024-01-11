@@ -3,7 +3,7 @@ layout: post
 title: "大阪旅行(2024/1/6-1/8)"
 date: 2024-1-22T22:00:00+9:00
 authors: ["takumi"]
-categories: ["旅行", "大阪"]
+categories: ["Development", "Javascript"]
 tags: ["Writing"]
 description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
 thumbnail: "https://pbs.twimg.com/media/GDkEuenagAA-oKV?format=jpg&name=small"
