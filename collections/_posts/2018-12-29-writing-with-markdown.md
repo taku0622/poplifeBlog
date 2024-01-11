@@ -2,7 +2,7 @@
 layout: post
 title: "大阪旅行(2024/1/6-1/8)"
 date: 2024-1-11T13:00:00+9:00
-authors: ["Sage Kirk", "Mike Vance"]
+authors: ["Takumi"]
 categories: ["Development", "Javascript", "Web Design"]
 tags: ["Writing"]
 description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
