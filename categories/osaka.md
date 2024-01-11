@@ -1,4 +1,4 @@
 ---
 layout: category
-title: 大阪
+title: Osaka
 ---

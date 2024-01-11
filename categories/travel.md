@@ -1,4 +1,4 @@
 ---
 layout: category
-title: 旅行
+title: Travel
 ---
