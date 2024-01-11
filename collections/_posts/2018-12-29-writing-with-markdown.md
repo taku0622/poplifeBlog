@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "大阪旅行(2024/1/6-1/8)"
-date: 2024-1-22T13:00:00+9:00
-authors: ["takumi"]
-categories: ["旅行", "大阪"]
+date: 2024-1-11T13:00:00+9:00
+authors: ["Sage Kirk", "Mike Vance"]
+categories: ["Development", "Javascript", "Web Design"]
 tags: ["Writing"]
 description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
-thumbnail: "https://pbs.twimg.com/media/GDkEuenagAA-oKV?format=jpg&name=small"
-image: "https://pbs.twimg.com/media/GDkEuenagAA-oKV?format=jpg&name=small"
+thumbnail: "assets/images/unsplash-CTivHyiTbFw-640x360.jpeg"
+image: "https://source.unsplash.com/CTivHyiTbFw/1600x900"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
