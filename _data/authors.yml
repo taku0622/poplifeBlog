@@ -2,15 +2,15 @@ takumi:
   name: 'taku'
   image: 'assets/images/author/avatar.jpg'
   twitter: 'maple_taku'
-# takumi:
-#   name: 'Takumi'
-#   image: 'assets/images/author/mike-vance.jp'
-#   twitter: 'maple_taku'
-# takumi:
-#   name: 'Takumi'
-#   image: 'assets/images/author/mike-vance.jp'
-#   twitter: 'maple_taku'
-# takumi:
-#   name: 'Takumi'
-#   image: 'assets/images/author/mike-vance.jp'
-#   twitter: 'maple_taku'
+take:
+  name: 'take'
+  image: 'assets/images/author/avatar2.jpg'
+  twitter: 'takeshi__terasawa'
+teza:
+  name: 'teza'
+  image: 'assets/images/author/avatar3.jpg'
+  twitter: 'teza__1102'
+yuna:
+  name: 'yuna'
+  image: 'assets/images/author/avatar4.jpg'
+  twitter: 'yu_na0810'

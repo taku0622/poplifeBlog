@@ -106,12 +106,6 @@ image: "https://pbs.twimg.com/media/GDkYGb7aIAAf5P_?format=jpg&name=small"
 ![肉まん・チーズケーキ](https://pbs.twimg.com/media/GDklHfkaUAA9Dh8?format=jpg&name=small)
 
 
-食べ物：[りくろーおじさんの店](https://maps.app.goo.gl/bdhvYLwj4dBeuuCy6)
-
-![肉まん・チーズケーキ](https://pbs.twimg.com/media/GDklHfkaUAA9Dh8?format=jpg&name=small)
-
-
-
 食べ物：[くくる](https://maps.app.goo.gl/VWZNuGULxDre88qZ9)
 
 ![くくる](https://pbs.twimg.com/media/GDklIlzbEAAo_d9?format=jpg&name=small)
