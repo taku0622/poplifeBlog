@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "About Us"
+title: "About"
 date: 2024-1-11T22:15:34+9:00
 permalink: "/about/"
 description: "余裕があれば、旅行内容をまとめる。"
